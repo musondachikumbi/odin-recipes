@@ -2,7 +2,7 @@ HEAD
 # HTML Foundations Project
 
 This project is part of the HTML Foundations course on The Odin Project.
-It is designed to help me practice the basics of HTML structure, elements, and layout.
+It is designed to help me practice the basics of HTML structure, elements, layout, how to make the site more user friendly and good SEO practices to make the web site rank higher on google search results.
 
 By completing this project, I will demonstrate:
 - Proper use of semantic HTML elements
