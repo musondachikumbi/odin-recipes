@@ -14,8 +14,7 @@ git commit
 >  # HTML Foundations Project
 =======
 # odin-recipes
-🍽️ My Recipe Website
-Welcome to My Recipe Website — a simple, user-friendly web application for discovering and sharing delicious recipes from around the world. Whether you're a seasoned chef or a curious beginner, this site helps you explore, cook, and enjoy!
+Welcome to My Recipe Website🍽️ — a simple, user-friendly web application for discovering and sharing delicious recipes from around the world. Whether you're a seasoned chef or a curious beginner, this site helps you explore, cook, and enjoy!
 
 🔧 Features
 🍲 Easy-to-follow recipes with clear instructions
