@@ -9,3 +9,8 @@
     color: hsl(0, 0%, 100%);
 
 }
+.position{
+    text-align: center;
+    color: hwb(49 7% 15%);
+    margin-top: 20px;
+}
