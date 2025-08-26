@@ -1,0 +1,11 @@
+#foot{
+    text-align: center;
+    font-size: 0.9em;
+    color: hsl(0, 0%, 97%);
+    background-color: black;
+    margin-top: 20px;
+}
+.pro{
+    color: hsl(0, 0%, 100%);
+
+}
