@@ -1,9 +1,9 @@
-#foot{
+.foot{
     text-align: center;
     font-size: 0.9em;
     color: hsl(0, 0%, 97%);
     background-color: black;
-    margin-top: 20px;
+    margin-top: 25px;
 }
 .pro{
     color: hsl(0, 0%, 100%);
@@ -13,4 +13,12 @@
     text-align: center;
     color: hwb(49 7% 15%);
     margin-top: 20px;
+}
+.background{
+    background-color: lab(19.61% -1.35 0.97);
+    color:rgb(0, 208, 245);
+}
+.textcolour{
+    color: hwb(0 100% 0%);
+
 }
