@@ -70,7 +70,7 @@ To edit or add recipes, create new .html files in the recipes folder.
  Add dark mode
 
 🤝 Contributing
-Feel free to fork this repo and contribute! Pull requests are welcome.
+please do not attempt to fork this repo. Pull requests are not welcome for the time being.
 
 📄 License
 This project is licensed under the MIT License.
