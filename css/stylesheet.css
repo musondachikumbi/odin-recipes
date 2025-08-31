@@ -11,7 +11,6 @@
 }
 .position{
     text-align: center;
-    color: hwb(49 7% 15%);
     margin-top: 20px;
 }
 .background{
@@ -21,4 +20,7 @@
 .textcolour{
     color: hwb(0 100% 0%);
 
+}
+h1 {
+    color:palevioletred;
 }
