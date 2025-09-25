@@ -28,13 +28,12 @@ body{
 font: 16px Arial, sans-serif;
 margin: 0;
 }
-li{
-    background-color: rgb(22, 112, 128);
+li{ 
     color: hsl(0, 0%, 97%);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    text-align: center;
 }
 .picture{
 display: block;
@@ -43,4 +42,21 @@ margin: 0 auto;
 a {
 text-decoration: none;
 color:darkcyan;
+}
+footer p{
+text-decoration: none;
+color:rgb(0, 0, 0);
+}
+footer {
+background-color: rgb(35, 129, 146);
+}
+footer p a{
+color:beige;
+}
+footer{
+padding-bottom: 30px;
+padding-right: 30px;
+padding-left: 30px;
+padding-top: 30px;
+text-align: center;
 }
