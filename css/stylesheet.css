@@ -113,4 +113,6 @@ box-sizing: border-box;
 }
 .header-container{
 
+.header{
+    display: flex;
 }
