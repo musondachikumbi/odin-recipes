@@ -26,7 +26,8 @@ h1 {
 }
 body{
 font: 16px Arial, sans-serif;
-margin: 20px;
+margin: 0;
+padding: 0;
 }
 li{ 
     color: hsl(0, 0%, 97%);
@@ -80,4 +81,36 @@ padding: 0px;
     margin: 30px;
     background-color: hsl(0, 0%, 0%);
     text-align: center;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+.menu-container{
+    display: flex;
+justify-content: center;
+background-color: blue;
+padding: 20px;    
+}
+.menu{
+    display: flex;
+border: 1px solid white;
+padding: 10px;
+justify-content: space-between;
+width: 900px;
+color: white;
+}
+
+* {
+box-sizing: border-box;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+}
+.login{
+    margin-left: 20px;
+}
+.header-container{
+
 }
