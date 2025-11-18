@@ -8,9 +8,7 @@ By completing this project, I will demonstrate:
 - Proper use of semantic HTML elements
 - How to create headings, paragraphs, lists, links, and images
 - Good structure and formatting using HTML5
-git commit
-> git add .
-> git add README.md
+
 >  # HTML Foundations Project
 =======
 # odin-recipes
