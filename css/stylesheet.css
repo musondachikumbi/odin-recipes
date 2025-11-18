@@ -139,7 +139,8 @@ width: 900px;
    width: 900px;
    display: flex;
    justify-content: center;
-   flex-wrap: wrap; 
+   flex-wrap: wrap;
+   flex-direction: row-reverse; 
 }
 .photo-grid-item{
     border:1px solid black;
@@ -149,4 +150,7 @@ width: 900px;
     justify-content: center;
     padding-right: 10px;
 } 
-/*ask chat GPT   " I added borders to the .photo-grid-item but the pictures aren't falling those borders instaed the left part of the border shows some padding and a small part of the right side of the image goes beyond the border by a few px. how do i fix this issue so that the pictures fall exactly within the borders? heres my code "" and these are the css declarations tied to them"" "*/
+/*ask chat GPT   " I added borders to the .photo-grid-item but the pictures aren't falling within those borders instaed the left part of the border shows some padding and a small part of the right side of the image goes beyond the border by a few px. how do i fix this issue so that the pictures fall exactly within the borders? heres my code "" and these are the css declarations tied to them"" "*/
+.log{
+color: antiquewhite;
+}
