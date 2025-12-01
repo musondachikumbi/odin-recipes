@@ -48,7 +48,7 @@ text-decoration: none;
 color:rgb(0, 0, 0);
 }
 footer {
-background-color: rgb(35, 129, 146);
+background-color: rgb(247, 199, 244);
 }
 footer p a{
 color:beige;
@@ -59,6 +59,7 @@ padding-right: 30px;
 padding-left: 30px;
 padding-top: 30px;
 text-align: center;
+width: 100%;
 }
 h1 {
 width: 400px;
@@ -82,91 +83,9 @@ padding: 0px;
     background-color: hsl(0, 0%, 0%);
     text-align: center;
 }
-.flex-container{
+.task{
     display: flex;
-    justify-content: center;
 }
-.menu-container{
-    display: flex;
-justify-content: center;
-background-color: blue;
-padding: 20px;    
-}
-.menu{
-    display: flex;
-border: 1px solid white;
-padding: 10px;
-justify-content: space-between;
-width: 900px;
-color: white;
-}
-
-* {
-box-sizing: border-box;
-}
-.links{
-    display: flex;
-    justify-content: flex-end;
-}
-.login{
-    margin-left: 20px;
-}
-.header-container{
-    color: #5995DA;
-    background-color: #D6E9FE;
-    display: flex;
-    justify-content: center;
-}
-.header{
-width: 900px;
-  height: 300px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-/*go through to fully understand this styling*/
-.subscribe {
-  border: 1px solid #2d4157;
-}
-.social {
-  padding-left: 1px;
-}
-.photo-grid-container{
-    display: flex;
-    justify-content: center;
-}
-.photo-grid{
-   width: 900px;
-   display: flex;
-   justify-content: center;
-   flex-wrap: wrap;
-   flex-direction: row-reverse; 
-}
-.photo-grid-item{
-    border:1px solid black;
-    width: 300px;
-    height: 300px;
-    display: flex;
-    justify-content: center;
-    padding-right: 10px;
-} 
-/*ask chat GPT   " I added borders to the .photo-grid-item but the pictures aren't falling within those borders instaed the left part of the border shows some padding and a small part of the right side of the image goes beyond the border by a few px. how do i fix this issue so that the pictures fall exactly within the borders? heres my code "" and these are the css declarations tied to them"" "*/
-.login-page{
-    display: flex;
-    background-color:#5995DA;
-    justify-content: center
-}
-.page{
-    display: flex;
-    border: 1px solid white;
-    padding: 10px;
-    margin: 10px;
-    width: 1000px;
-    justify-content: space-between;  
-}
-.login{
-    margin-left: 40px;
-}
-.google{
-    margin: 5px;
+video{
+    margin: 1px;
 }
